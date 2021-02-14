@@ -1,4 +1,4 @@
-# Computational codes for simulation studies in the manuscript "Semiparametric Mixed-effects Ordinary Differential Equation Models with Heavy-Tailed Distributions" by Baisen Liu, Yunlong Nie, Liangliang Wang, and Jiguo Cao. Accepted by \emph{Journal of Agricultural, Biological and Environmental Statistics} in 2021. 
+# Computational codes for simulation studies in the manuscript "Semiparametric Mixed-effects Ordinary Differential Equation Models with Heavy-Tailed Distributions" by Baisen Liu, Yunlong Nie, Liangliang Wang, and Jiguo Cao. Accepted by Journal of Agricultural, Biological and Environmental Statistics in 2021. 
 
 This foler contains 5 matlab files.
 
