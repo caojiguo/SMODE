@@ -1,6 +1,10 @@
-# Computational codes for simulation studies in the manuscript "Semiparametric Mixed-effects Ordinary Differential Equation Models with Heavy-Tailed Distributions" by Baisen Liu, Yunlong Nie, Liangliang Wang, and Jiguo Cao. Accepted by Journal of Agricultural, Biological and Environmental Statistics in 2021. 
+# Computational codes for simulation studies in the manuscript "Semiparametric Mixed-effects Ordinary Differential Equation Models with Heavy-Tailed Distributions" by Baisen Liu, Yunlong Nie, Liangliang Wang, and Jiguo Cao. Accepted by Journal of Agricultural, Biological and Environmental Statistics in 2021.
 
-This foler contains 5 matlab files.
+SemiMEODE2021Jan31.pdf is the main manuscript. 
+
+supplement.pdf is the supplementary document.
+
+This foler also contains 5 matlab files.
 
 main.m is the main Matlab program to simulate the Scenario I and II in Section 5 of the article "Bayesian Robust Estimation of Semiparametric Mixed-Effects Ordinary Differential Equation Models Using Heavy-Tailed Distributions" by Liu, Wang, Nie and Cao.
 
